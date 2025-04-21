@@ -8,13 +8,13 @@
 body {
   font-family: Epilogue, sans-serif;
   line-height: 1.5;
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
 }
 
 
 /* Header */
 .header {
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
   justify-content: space-between;
   align-items: center;
   width: 100%;
@@ -47,7 +47,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
   flex-wrap: wrap;
   /*max-width: 1280px;*/
   justify-content: center;
@@ -116,7 +116,7 @@ body {
 /* Client Logos Section */
 .client-logos {
   display: flex;
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
   flex-wrap: wrap;
   flex-direction: row;
   /*max-width: 1280px;*/
@@ -133,7 +133,7 @@ body {
 
 /* Skills Section */
 .skills-section {
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
   padding: 42px 24px;
 }
 
@@ -144,7 +144,7 @@ body {
 }
 
 .skill-card {
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
   flex-direction: column;
   flex: 1;
   justify-content: center;
@@ -172,7 +172,7 @@ body {
 }
 
 .portfolio {
-  background-color: rgb(210, 205, 194);
+  background-color: rgb(243, 242, 240);
   padding: 42px 24px;
 }
 .section-title {
