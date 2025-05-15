@@ -36,7 +36,7 @@ function showToast(msg) {
 
 
 // 💌 Brevo API Key — ⚠️ WARNING: Do NOT expose this in production!
-const BREVO_API_KEY = "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";
+const BREVO_API_KEY = "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";
 const YOUR_EMAIL = "anupamsuthar329@gmail.com"; // Email to receive form notifications
 
 form.addEventListener('submit', async (e) => {
