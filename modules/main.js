@@ -25,8 +25,8 @@ const projects = [
     title: "Admin Dashboard",
     image: "assets/Admin Login Illustration.jpeg",
     description: "An admin page provides a central dashboard for managing and monitoring system activities and user data.",
-    github: "https://github.com/Anupam0329/Admin-Dashboard",
-    live: "https://anupam0329.github.io/Admin-Dashboard/"
+    github: "https://github.com/suthar29/Admin-Dashboard",
+    live: "https://suthar29.github.io/Admin-Dashboard/"
   },
   {
     title: "Landing Page",
